@@ -11,12 +11,12 @@
     <com.nzsc.myapplication.View.TopBar
         android:id="@+id/topbar"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="wrap_content"
         app:leftBackground="@mipmap/back"
         app:rightBackground="@mipmap/home"
         app:titleText="功率详情"
         app:titleTextColor="#617CFF"
-        app:titleTextSize="16sp"></com.nzsc.myapplication.View.TopBar>
+        app:titleTextSize="7sp"></com.nzsc.myapplication.View.TopBar>
     <View
         android:layout_width="match_parent"
         android:layout_height="5dp"
@@ -75,7 +75,7 @@
             android:layout_marginTop="5dp"
             android:text="最大需量:"
             android:textColor="#000000"
-            android:textSize="25dp" />
+            android:textSize="22sp" />
 
         <LinearLayout
             android:layout_width="0dp"

@@ -11,11 +11,11 @@
     <com.nzsc.myapplication.View.TopBar
         android:id="@+id/topbar"
         android:layout_width="match_parent"
-        android:layout_height="50dp"
+        android:layout_height="wrap_content"
         app:leftBackground="@mipmap/back"
         app:titleText="电压"
         app:titleTextColor="#617CFF"
-        app:titleTextSize="16sp"></com.nzsc.myapplication.View.TopBar>
+        app:titleTextSize="7sp"/>
 
     <View
         android:layout_width="match_parent"
@@ -32,7 +32,7 @@
           android:layout_marginLeft="20dp"
           android:textColor="#6e6b6b"
           android:gravity="center_vertical"
-          android:textSize="24dp"
+          android:textSize="24sp"
           />
 
     </LinearLayout>
@@ -51,7 +51,7 @@
             android:layout_marginLeft="20dp"
             android:textColor="#6e6b6b"
             android:gravity="center_vertical"
-            android:textSize="20dp"
+            android:textSize="20sp"
             />
 
     </LinearLayout>
@@ -73,7 +73,7 @@
             android:text="监测点"
             android:textColor="#8f8c8c"
             android:gravity="center_vertical"
-            android:textSize="20dp"
+            android:textSize="20sp"
             android:layout_weight="1"/>
         <TextView
             android:layout_width="0dp"
@@ -81,7 +81,7 @@
             android:text="Uu"
             android:textColor="#8f8c8c"
             android:gravity="center"
-            android:textSize="20dp"
+            android:textSize="20sp"
             android:layout_weight="1"/>
         <TextView
             android:layout_width="0dp"
@@ -89,7 +89,7 @@
             android:text="Uv"
             android:textColor="#8f8c8c"
             android:gravity="center"
-            android:textSize="20dp"
+            android:textSize="20sp"
             android:layout_weight="1"/>
         <TextView
             android:layout_width="0dp"
@@ -108,5 +108,5 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:id="@+id/listview"
-        android:layout_weight="1"></ListView>
+        android:layout_weight="1"/>
 </LinearLayout>
