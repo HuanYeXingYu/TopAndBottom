@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="url">
+        <item>http://www.nanjing.gov.cn/xxgk/bm/sjjgswglj/201611/W020161128565687398922.jpg</item>
+        <item>http://www.nanjing.gov.cn/xxgk/bm/sjjgswglj/201708/W020170802311507337383.jpg</item>
+        <item>http://www.nanjing.gov.cn/xxgk/bm/sjjgswglj/201707/W020170724330616487539.jpg</item>
+        <item>http://www.nanjing.gov.cn/xxgk/bm/sjjgswglj/201706/W020170622376304460287.jpg</item>
+        <item>http://www.nanjing.gov.cn/xxgk/bm/sjjgswglj/201707/W020170703393808176098.jpg</item>
+    </array>
+
+    <array name="url1">
+        <item>http://img.zcool.cn/community/01700557a7f42f0000018c1bd6eb23.jpg</item>
+    </array>
+    <array name="url2">
+        <item>http://img.zcool.cn/community/01d28457d621800000018c1bb7877e.jpg</item>
+        <item>http://img.zcool.cn/community/01ae5656e1427f6ac72531cb72bac5.jpg</item>
+    </array>
+    <array name="url4">
+        <item>http://img.zcool.cn/community/01b72057a7e0790000018c1bf4fce0.png</item>
+        <item>http://img.zcool.cn/community/01fca557a7f5f90000012e7e9feea8.jpg</item>
+        <item>http://img.zcool.cn/community/01996b57a7f6020000018c1bedef97.jpg</item>
+        <item>http://img.zcool.cn/community/01700557a7f42f0000018c1bd6eb23.jpg</item>
+    </array>
+    <array name="title">
+        <item>公司承建的公共机构能源管理系统通过查收</item>
+        <item>加强协调配合　共推绿建发展</item>
+        <item>旗帜鲜明讲政治　持之以恒改作风</item>
+        <item>环湖健步走　绿色低碳行</item>
+        <item>推广节能产品 打造绿色机关</item>
+    </array>
+    <array name="demo_list">
+        <item>banner动画预览</item>
+        <item>banner内置样式预览</item>
+        <item>banner指示器位置设置预览</item>
+        <item>banner一些自定义样式方法预览</item>
+        <item>banner加载本地图片</item>
+        <item>自定义ViewPager</item>
+        <item>！！banner更多用法请看文档，这里就不一一列举了！</item>
+    </array>
+    <array name="anim">
+        <item>Default</item>
+        <item>Accordion</item>
+        <item>BackgroundToForeground</item>
+        <item>ForegroundToBackground</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>DepthPage</item>
+        <item>FlipHorizontal</item>
+        <item>FlipVertical</item>
+        <item>RotateDown</item>
+        <item>RotateUp</item>
+        <item>ScaleInOut</item>
+        <item>Stack</item>
+        <item>Tablet</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>ZoomOutSlide</item>
+    </array>
+    <string-array name="style">
+        <item>NOT_INDICATOR</item>
+        <item>CIRCLE_INDICATOR</item>
+        <item>NUM_INDICATOR</item>
+        <item>NUM_INDICATOR_TITLE</item>
+        <item>CIRCLE_INDICATOR_TITLE</item>
+        <item>CIRCLE_INDICATOR_TITLE_INSIDE</item>
+    </string-array>
+    <string-array name="indicator">
+        <item>LEFT</item>
+        <item>CENTER</item>
+        <item>RIGHT</item>
+    </string-array>
+</resources>
