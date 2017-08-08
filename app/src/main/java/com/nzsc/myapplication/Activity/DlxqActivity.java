@@ -15,9 +15,6 @@ public class DlxqActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dlxq);
-
-
-
          topBar = (TopBar) findViewById(R.id.topbar);
         topBar.setOnLeftAndRightClickListener(new TopBar.OnLeftAndRightClickListener() {
             @Override
